@@ -50,6 +50,8 @@
          <img src="https://feeldreams.github.io/papjalan3.jpeg" id="wallpaper3"/>
          <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
 	 <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
+	     <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
+	     <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
      </div>
      
      <div><div id='pergeseran'>
