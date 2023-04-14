@@ -49,6 +49,7 @@
      	<img src="https://feeldreams.github.io/papjalan.jpeg" id="wallpaper2"/>
          <img src="https://feeldreams.github.io/papjalan3.jpeg" id="wallpaper3"/>
          <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
+	 <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
      </div>
      
      <div><div id='pergeseran'>
@@ -79,7 +80,7 @@
 
      <div><blockquote id='bq'>
        <p id="kalimat">maaf ya aku belum bisa jadi yang terbaik buat kamu,<br><br>aku juga ga bisa memahami perasaan kamu,<br><br>aku terlalu banyak kurangnya buat tuan putri,<br><br>tapi aku akan terus berusaha yang terbaik buat kamu hehe..,<br><br>Tuan putri mau keluar ga sama aku malam ini :)</p>
-       <p id="pesanAkhir">stay with me. i love uu 🤍</p>
+       <p id="pesanAkhir">Keep Smiling ya cantik😊 . i love uu 🤍</p>
      </blockquote></div>
      
    </div>
