@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
   
@@ -21,7 +19,7 @@
 <body>
 	
    <!-- Ganti Audio di sini -->
-   <audio src="https://feeldreams.github.io/audio/seandainya.mp3" id="linkmp3" class="sembunyi"></audio>
+   <audio src="https://zenarl.github.io/bazzi.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
      <!-- Wallpaper --><img src="https://feeldreams.github.io/papjalan2.jpeg" id="wallpaper"/>
@@ -56,13 +54,17 @@
      <div><div id='pergeseran'>
      	
         <p><b>
-	        <span>hii ayaangggg</span>
+	        <span>hii tuan putrii!!!</span>
         </b></p>
         
         <p><b>
 	        <span>maaf yaa kalo aku<br>suka bkin kamu kesel</span>
         </b></p>
-
+	
+	<p><b>
+	        <span>maaf yaa juga bercandaan ku<br>suka berlebihan</span>
+        </b></p>
+	
         <p><b>
 	        <span>aku cuma mau bilang</span>
         </b></p>
@@ -76,7 +78,7 @@
      <p id="ketgeser">Klik untuk Geser!</p>
 
      <div><blockquote id='bq'>
-       <p id="kalimat">maaf ya aku belum bisa jadi yang terbaik buat kamu,<br><br>aku juga gabisa sepenuhnya ngertiin gimana cara kamu ingin dicintai,<br><br>aku terlalu banyak kurangnya buat cewe secantik kamu,<br><br>tapi aku akan terus berusaha yang terbaik buat kamu hehe..</p>
+       <p id="kalimat">maaf ya aku belum bisa jadi yang terbaik buat kamu,<br><br>aku juga ga bisa memahami perasaan kamu,<br><br>aku terlalu banyak kurangnya buat tuan putri,<br><br>tapi aku akan terus berusaha yang terbaik buat kamu hehe..,<br><br>Tuan putri mau keluar ga sama aku malam ini :)</p>
        <p id="pesanAkhir">stay with me. i love uu 🤍</p>
      </blockquote></div>
      
