@@ -22,7 +22,7 @@
    <audio src="https://zenarl.github.io/bazzi.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
-     <!-- Wallpaper --><img src="https://feeldreams.github.io/papjalan2.jpeg" id="wallpaper"/>
+     <!-- Wallpaper --><img src="https://zenarl.github.io/blob/main/wallpaper1.jpg" id="wallpaper"/>
    </div>
    
    <div id='Content'>
@@ -46,7 +46,7 @@
      </div>
      
      <div class="kumpulanwp" class="sembunyi">
-     	<img src="https://feeldreams.github.io/papjalan.jpeg" id="wallpaper2"/>
+     	<img src="https://zenarl.github.io/blob/main/wallpaper1.jpg" id="wallpaper2"/>
          <img src="https://feeldreams.github.io/papjalan3.jpeg" id="wallpaper3"/>
          <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
 	 <img src="https://feeldreams.github.io/paplalulintas4.jpeg" id="wallpaper4"/>
