@@ -47,11 +47,11 @@
      
      <div class="kumpulanwp" class="sembunyi">
      	<img src="https://zenarl.github.io/wallpaper1.jpg" id="wallpaper2"/>
-         <img src="https://zenarl.github.io/wallpaper3.jpg" id="wallpaper3"/>
+         <img src="https://zenarl.github.io/wallpaper2.jpg" id="wallpaper3"/>
          <img src="https://zenarl.github.io/wallpaper4.jpg" id="wallpaper4"/>
 	 <img src="https://zenarl.github.io/wallpaper4.jpg" id="wallpaper4"/>
 	 <img src="https://zenarl.github.io/wallpaper5.jpg" id="wallpaper5"/>
-	  <img src="https://zenarl.github.io/wallpaper5.jpg" id="wallpaper5"/>
+	 <img src="https://zenarl.github.io/wallpaper5.jpg" id="wallpaper5"/>
      </div>
      
      <div><div id='pergeseran'>
