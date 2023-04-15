@@ -22,7 +22,7 @@
    <audio src="https://zenarl.github.io/bazzi.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
-     <!-- Wallpaper --><img src="https://zenarl.github.io/blob/main/wallpaper1.jpg" id="wallpaper"/>
+     <!-- Wallpaper --><img src="https://zenarl.github.io/wallpaper1.jpg" id="wallpaper"/>
    </div>
    
    <div id='Content'>
